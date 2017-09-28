@@ -3,4 +3,5 @@ body {
 text-align: center; }
 #main { width: 1000px; 
   height: 500px; 
+  background: #FFBA19; 
 }
