@@ -1,17 +1,21 @@
 body {
   background: 	#A52A2A;
 text-align: center; }
+
 #main { width: 1000px; 
   height: 500px; 
   background: #FFBA19; 
   margin: 25px auto;
   border: solid 2px;
 }
-h1 {text-align: center;
+
+h1 {
 	font-family: "Times New Roman";
-	font: 24pt;
+	font: 44pt;
 	color: #A52A2A; }
+
 	hr { height: 2px; }
-	p { font-family: "Calibri";
+
+	p {font-family: "Calibri";
 	font-size: 18pt;
 	text-indent: 48px; }
